@@ -1,0 +1,10 @@
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\bin\Debug\_03_BadgesConsoleApp.exe.config
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\bin\Debug\_03_BadgesConsoleApp.exe
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\bin\Debug\_03_BadgesConsoleApp.pdb
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\bin\Debug\03_BadgesRepo.dll
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\bin\Debug\03_BadgesRepo.pdb
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\obj\Debug\_03_BadgesConsoleApp.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\obj\Debug\_03_BadgesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\obj\Debug\_03_BadgesConsoleApp.csproj.CopyComplete
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\obj\Debug\_03_BadgesConsoleApp.exe
+C:\Users\JaH\source\repos\_03_BadgesConsoleApp\_03_BadgesConsoleApp\obj\Debug\_03_BadgesConsoleApp.pdb
